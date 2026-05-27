@@ -2,6 +2,9 @@
 
 An end-to-end predictive analytics framework designed to analyze banking behaviors, evaluate customer interaction touchpoints, and forecast churn indicators using advanced machine learning models. Built using a decoupling philosophy, this project translates multiple complex financial data sources into clean feature-engineered sets optimized for high-recall operational interventions.
 
+## 🔗 Live Demo
+Deploy and test the live application here: [https://bigjoe401-llyod-bank-forage-app-gaqsrv.streamlit.app/](https://bigjoe401-llyod-bank-forage-app-gaqsrv.streamlit.app/)
+
 ---
 
 # 🚀 Features
