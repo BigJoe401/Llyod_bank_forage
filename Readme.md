@@ -19,13 +19,13 @@ The KPI Image presents key business metrics and performance indicators in a cent
 
 ### Screenshot
 
-> *./screenshot/KPI-Lloyd.png*
+> *KPI DASHBOARD*
 
 ```
-![KPI Page - Lloyds Banking Group]
+![KPI - Lloyds Banking Group]
 ```
 
-![KPI Page - Lloyds Banking Group](screenshot/KPI-Lloyd.JPG)
+![KPI Page - Lloyds Banking Group](./screenshot/kpi-llyod.jpg)
 
 ---
 
@@ -35,11 +35,11 @@ The Comparison Image enables users to evaluate metrics across different periods,
 
 ### Screenshot
 
-> *./screenshots/Comparison_page-Llyod*
+> *COMPARISON DASHBOARD*
 
-```text
-[ Comparison Page Screenshot - Lloyds Banking Group ]
-```
+
+![Comparison](./screenshot/comparison-page-llyod.jpg)
+
 
 ---
 
