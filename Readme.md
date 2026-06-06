@@ -7,6 +7,52 @@ Deploy and test the live application here: [https://bigjoe401-llyod-bank-forage-
 
 ---
 
+## 📊 Dashboard Update
+
+This section highlights recent enhancements and dashboard improvements implemented for the Lloyds Banking Group analytics platform. The updates focus on providing clearer insights, improved usability, and a better overall reporting experience.
+
+---
+
+## 📈 KPI Image 
+
+The KPI Image presents key business metrics and performance indicators in a centralized view, enabling users to quickly monitor trends and assess overall performance.
+
+### Screenshot
+
+> *./screenshot/KPI-Lloyd.png*
+
+```
+![KPI Page - Lloyds Banking Group]
+```
+
+---
+
+## 📊 Comparison Image
+
+The Comparison Image enables users to evaluate metrics across different periods, categories, or business segments. This functionality supports deeper analysis and helps drive data-informed decisions.
+
+### Screenshot
+
+> *./screenshots/Comparison_page-Llyod*
+
+```text
+[ Comparison Page Screenshot - Lloyds Banking Group ]
+```
+
+---
+
+## 🚀 Summary of Improvements
+
+* Enhanced KPI visibility and reporting capabilities
+* Improved comparison views for more effective analysis
+* Streamlined dashboard layout for a better user experience
+* Increased accessibility and readability across dashboard components
+
+---
+
+For additional information and future updates, please refer to the main project documentation or contact the development team.
+
+
 # 🚀 Features
 
 * 📊 **Multi-Source Data Aggregation:** Automatically merges transactional records, service interaction history, profiles, and engagement levels into a unified master frame.
