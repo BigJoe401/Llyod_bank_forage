@@ -25,7 +25,7 @@ The KPI Image presents key business metrics and performance indicators in a cent
 ![KPI Page - Lloyds Banking Group]
 ```
 
-![KPI Page - Lloyds Banking Group](./screenshot/KPI-Lloyd.JPG)
+![KPI Page - Lloyds Banking Group](screenshot/KPI-Lloyd.JPG)
 
 ---
 
